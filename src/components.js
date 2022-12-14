@@ -1,3 +1,3 @@
-import InputText from './components/InputText.vue'
+import NitsInputText from './components/NitsInputText.vue'
 
-export default { InputText }
+export default { NitsInputText }
